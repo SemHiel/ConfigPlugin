@@ -1,4 +1,4 @@
-# Commands Test
+# Config Minecraft
 Config Minecraft Plugin
 
 /printmessagefromconfig (Changable in config)
