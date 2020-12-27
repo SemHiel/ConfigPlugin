@@ -1,0 +1,10 @@
+name: ConfigurationPlugin
+version: ${project.version}
+main: me.sequos.config.ConfigurationPlugin
+authors: [ Sequos ]
+description: ConfigurationPlugin Plugin
+commands:
+  printMessageFromConfig:
+    description: Print a message from the config.
+  setFood:
+    description: Sets a different name
